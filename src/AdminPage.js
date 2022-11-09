@@ -88,7 +88,7 @@ function PostData(id) {
 
         }}>
           <h5 style={{color: 'white', marginTop: '15px'}}>SailGP - Admin Control</h5>
-          <Button variant="outlined" href="https://sailgp.vercel.app/leaderboard2"
+          <Button variant="outlined" href="https://sailgp2.vercel.app/leaderboard2"
             style={{
                 backgroundColor: '#495151',
                 color: 'white',
